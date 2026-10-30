@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Physics-Fitted Simulators versus Adversarial Translators for Charge Stability Diagrams: a Simulation-to-Measurement Gap Study"
+type: software
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+version: 0.1.0
+date-released: 2026-10-30
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/physics-fitted-vs-gan-charge-stability-sim2real"
+keywords:
+  - charge stability diagram
+  - domain adaptation
+  - synthetic data
+  - silicon spin qubits
+  - simulation-to-measurement gap

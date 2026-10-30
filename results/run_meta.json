@@ -1,0 +1,12 @@
+{
+ "device": "cuda",
+ "seeds": [
+  0,
+  1,
+  2
+ ],
+ "quick": false,
+ "wall_seconds": 1539.3,
+ "torch": "2.11.0+cu128",
+ "gpu": "NVIDIA GeForce RTX 5050 Laptop GPU"
+}
